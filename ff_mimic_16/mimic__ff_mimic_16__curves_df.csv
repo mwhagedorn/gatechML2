@@ -1,0 +1,4 @@
+,Iteration,Time,Fitness,runner_name,pop_size,keep_pct,Population Size,Keep Percent
+0,0,0.2475707569999912,14.0,MIMIC,450,0.25,450,0.25
+1,1,0.2475707569999912,14.0,MIMIC,450,0.25,450,0.25
+2,2,0.2475707569999912,15.0,MIMIC,450,0.25,450,0.25
